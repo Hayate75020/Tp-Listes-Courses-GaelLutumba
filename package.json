@@ -1,0 +1,13 @@
+{
+    "name": "tp-liste-courses",
+    "version": "1.0.0",
+    "description": "TP Node.js API CRUD liste de courses",
+    "main": "app.js",
+    "scripts": {
+        "start": "node courses.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodes": "^0.1.0"
+    }
+}
